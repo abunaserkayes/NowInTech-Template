@@ -1,0 +1,102 @@
+body{
+    background-color: #fff6ef;
+    font-family: 'Open Sans', sans-serif;
+}
+.notice-title {
+    color:#b4a696;
+    background-color: #ffe3d5;
+}
+a,button:focus{
+    outline:none;
+}
+.learn-more-title {
+    color: #ffa595;
+}
+
+i.long-arrow-right {
+    font-size: 10px;
+    padding-top: 6px;
+    padding-left: 3px;
+}
+.logo-area{
+    float:left;
+    color:#fd6346
+}
+.logo-area span {
+    color:black;
+    font-family:consolas;
+    font-weight: bold;
+    font-size: 25px;
+}
+.main-nav-menu{
+    float:right;
+    flex-grow:0;
+}
+.nav-menu {
+    font-size: 18px;
+    margin-right: 10px;
+}
+.color-red{
+    color:#fd9360 !important;
+}
+.darkorange-btn {
+    color:white;
+    padding: 6px 11px;
+    border-radius: 5px;
+    border: .2px solid white;
+    background-color:#fd6346;
+}
+.light-btn{
+    background-color:#ff845c;
+    color:white;
+    padding: 6px 11px;
+    border-radius: 5px;
+    border: .2px solid white;
+}
+.banner-image,.stay-image{
+    float: right;
+    width:600px;
+    height: auto;
+}
+.left-side{
+    float: left;
+}
+.left-side img{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+}
+.right-side{
+    float: right;
+}
+i.twitter-icon {
+    margin-left: 10px;
+    color: #fa8c82;
+    font-size: 30px;
+}
+.card-width{
+    width:21.5rem;
+}
+.archive-image{
+    float: left;
+    width: 750px;
+    height:auto;
+}
+.portfolio-image{
+    float:right;
+    width: 450px;
+    height: auto;
+}
+.news-section,.stay-section{
+    background-color: #ff6346;
+}
+.card-icon {
+    width: auto;
+    height: 250px;
+    font-size: 6rem;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    color: #fd785f;
+    background-color: #ffe0cf;
+}
